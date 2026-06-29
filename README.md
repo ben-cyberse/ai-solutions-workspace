@@ -1,6 +1,38 @@
 # AI Solutions & Cybersecurity Workspace
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Practice-green)
+![Bash](https://img.shields.io/badge/Bash-Linux-black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-red)
+![AI](https://img.shields.io/badge/AI-Evaluation-purple)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 > A professional workspace for developing Python, SQL, Bash, Linux, AI data workflows, automation, and cybersecurity skills.
+
+---
+
+## Table of Contents
+
+- [About](#about)
+- [Goals](#goals)
+- [Repository Highlights](#repository-highlights)
+- [Technical Skills](#technical-skills)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Professional Interests](#professional-interests)
+- [Connect With Me](#connect-with-me)
+- [Development Environment](#development-environment)
+- [Repository Structure](#repository-structure)
+- [Learning Roadmap](#learning-roadmap)
+- [Portfolio Projects](#portfolio-projects)
+- [Daily Git Workflow](#daily-git-workflow)
+- [Progress Tracker](#progress-tracker)
+- [Current Progress](#current-progress)
+- [Future Enhancements](#future-enhancements)
+- [Disclaimer](#disclaimer)
+- [License](#license)
 
 ---
 
@@ -29,6 +61,18 @@ This repository is my centralized development environment for:
 
 ---
 
+## Repository Highlights
+
+- Hands-on Python programming exercises
+- SQL query practice and database concepts
+- Bash scripting and Linux automation
+- Cybersecurity labs aligned with M.S. coursework
+- AI evaluation, prompt engineering, and response quality analysis
+- Portfolio-ready Python, SQL, Bash, and cybersecurity projects
+- Git and GitHub workflow documentation
+
+...
+
 ## Technical Skills
 
 | Programming | Systems | Data           | Security            |
@@ -39,7 +83,69 @@ This repository is my centralized development environment for:
 
 ---
 
-# Repository Structure
+## Education
+
+### University of Maryland, Baltimore County (UMBC)
+
+**Master of Science (M.S.) in Cybersecurity** *(Expected 2027)*
+
+**Relevant Areas of Study**
+
+- AI Security & Governance
+- Cybersecurity Governance
+- Network Security
+- Cloud Security
+- Risk Management
+- Digital Forensics
+- Security Operations
+- Incident Response
+- Security Architecture
+
+---
+
+## Certifications
+
+- ✅ CISA – Certified Information Systems Auditor (2025)
+- ✅ CISM – Certified Information Security Manager (2026)
+- ✅ AWS Certified Security – Specialty (2025)
+- ✅ CompTIA CySA+ (2025)
+- ✅ CompTIA AI+ (2026)
+- ✅ CompTIA Network+ CE (2025)
+
+---
+
+## Professional Interests
+
+- AI Evaluation
+- AI Safety & Trust
+- Prompt Engineering
+- AI Governance
+- Cybersecurity
+- Cloud Security
+- Governance, Risk & Compliance (GRC)
+- Linux & Automation
+- Python Development
+
+---
+
+## Connect With Me
+
+-GitHub: <https://github.com/ben-cyberse>
+- Email: <mailto:ben.cyber@outlook.com>
+
+## Development Environment
+
+- Windows 11
+- Visual Studio Code
+- Git
+- GitHub
+- Git Bash
+- PowerShell
+- Python 3
+- SQLite (Learning)
+- Docker (Learning)
+
+## Repository Structure
 
 ```text
 ai-solutions-workspace/
@@ -114,9 +220,13 @@ ai-solutions-workspace/
 
 ---
 
-# Learning Roadmap
+## Learning Roadmap
 
-## 🐍 01. Python
+### 🐍 Python
+
+- ⬜ Variables & Data Types
+- ⬜ Functions
+...
 
 * ⬜ Variables & Data Types
 * ⬜ Functions
@@ -131,7 +241,7 @@ ai-solutions-workspace/
 
 ---
 
-## 🗄️ 02. SQL
+### 🗄️  SQL
 
 * ⬜ SELECT Statements
 * ⬜ WHERE
@@ -145,7 +255,7 @@ ai-solutions-workspace/
 
 ---
 
-## 💻 03. Bash & Linux
+### 💻  Bash & Linux
 
 * ⬜ Terminal Navigation
 * ⬜ File Management
@@ -158,7 +268,7 @@ ai-solutions-workspace/
 
 ---
 
-## 🔐 04. Cybersecurity
+### 🔐  Cybersecurity
 
 * ⬜ Linux Security
 * ⬜ Networking Fundamentals
@@ -170,7 +280,7 @@ ai-solutions-workspace/
 
 ---
 
-# Portfolio Projects
+## Portfolio Projects
 
 * ⬜ CSV Cleaner
 * ⬜ Log Analyzer
@@ -183,7 +293,7 @@ ai-solutions-workspace/
 
 ---
 
-# Daily Git Workflow
+## Daily Git Workflow
 
 ```bash
 git status
@@ -194,7 +304,7 @@ git push origin main
 
 ---
 
-# Progress Tracker
+## Progress Tracker
 
 Update this section as you complete topics.
 
@@ -206,19 +316,35 @@ Update this section as you complete topics.
 
 ---
 
-# Current Focus
+## Current Progress
 
-🚧 Python Fundamentals
+### ✅ Repository
 
-🚧 SQL Practice
+- Repository created
+- GitHub connected
+- Folder structure organized
+- README completed
 
-🚧 Bash Scripting
+### 🚧 Currently Building
 
-🚧 Cybersecurity Labs
+- Python automation projects
+- SQL query and database practice
+- Bash scripting and Linux automation
+- AI evaluation portfolio
+- Prompt engineering techniques
+- Cloud security hands-on projects
+- Cybersecurity lab portfolio
 
----
+### 🎯 Next Milestones
 
-# Future Enhancements
+- Complete Python fundamentals project set
+- Build SQL practice database
+- Create Bash automation toolkit
+- Complete cybersecurity lab documentation
+- Develop portfolio-ready AI evaluation examples
+  
+
+## Future Enhancements
 
 * Docker
 * REST APIs
@@ -231,16 +357,20 @@ Update this section as you complete topics.
 
 ---
 
+## Disclaimer
+
+This repository contains personal learning materials, original practice exercises, and independent projects. It does not include confidential, proprietary, or client-owned information from any employer, client, or contract engagement.
+
 ## License
 
 This project is licensed under the MIT License.
 
 ---
 
-**Author**
+## Author
 
 **Benjamin Adjei**
 
-Master's Student – Cybersecurity
+Master's Student in Cybersecurity | AI Evaluation | AI Safety | Cybersecurity | Cloud Security
 
-Building practical skills in AI workflows, software development, Linux, automation, and cybersecurity.
+Building practical expertise in AI evaluation, software development, Linux automation, cybersecurity, and cloud security through hands-on projects and continuous learning.
