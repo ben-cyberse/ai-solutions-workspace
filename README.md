@@ -152,14 +152,38 @@ This repository is my centralized development environment for:
   
 ## Development Environment
 
+### Operating Systems
 - Windows 11
+- Linux (Ubuntu)
+
+### Development Tools
 - Visual Studio Code
 - Git
 - GitHub
 - Git Bash
 - PowerShell
+
+### Programming & Data
 - Python 3
+- SQL
 - SQLite (Learning)
+- Jupyter Notebook (Learning)
+- JSON
+
+### AI Tools
+- ChatGPT
+- Microsoft Copilot
+- GitHub Copilot
+
+### Cybersecurity Tools
+- Wireshark
+- Splunk
+- Microsoft Sentinel
+- Microsoft Defender
+- Nmap
+
+### Cloud
+- AWS
 - Docker (Learning)
 
 ## Repository Structure
