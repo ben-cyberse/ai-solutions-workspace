@@ -1,5 +1,7 @@
 # AI Solutions & Cybersecurity Workspace
 
+> Documenting my journey in AI evaluation, cybersecurity, Python automation, SQL, Bash scripting, and hands-on technical projects while pursuing an M.S. in Cybersecurity.
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![SQL](https://img.shields.io/badge/SQL-Practice-green)
 ![Bash](https://img.shields.io/badge/Bash-Linux-black)
@@ -73,6 +75,20 @@ This repository is my centralized development environment for:
 
 ...
 
+---
+
+## Current Focus
+
+- 🤖 AI Evaluation & Prompt Engineering
+- 🐍 Python Automation
+- 🗄️ SQL Practice
+- 🐧 Linux & Bash Scripting
+- 🔐 Cybersecurity Labs
+
+...
+
+---
+
 ## Technical Skills
 
 | Programming | Systems | Data           | Security            |
@@ -132,7 +148,8 @@ This repository is my centralized development environment for:
 
 -GitHub: <https://github.com/ben-cyberse>
 - Email: <mailto:ben.cyber@outlook.com>
-
+- LinkedIn: *(Coming Soon)*
+  
 ## Development Environment
 
 - Windows 11
@@ -223,10 +240,6 @@ ai-solutions-workspace/
 ## Learning Roadmap
 
 ### 🐍 Python
-
-- ⬜ Variables & Data Types
-- ⬜ Functions
-...
 
 * ⬜ Variables & Data Types
 * ⬜ Functions
