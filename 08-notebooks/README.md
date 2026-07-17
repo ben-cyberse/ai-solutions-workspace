@@ -28,6 +28,7 @@ A complete hands-on cybersecurity lab series built in Python/Jupyter covering ne
 | 15 | [`15_ai_governance.ipynb`](15_ai_governance.ipynb) | AI Governance & Responsible AI | NIST AI RMF, EU AI Act, Fairlearn, SHAP |
 | 16 | [`16_ai_evaluation.ipynb`](16_ai_evaluation.ipynb) | AI Evaluation: Metrics & Benchmarking | BLEU, ROUGE, Rubric scoring, Hallucination detection |
 | 17 | [`17_ai_safety_trust.ipynb`](17_ai_safety_trust.ipynb) | AI Safety & Trust | Red-teaming, NIST AI 100-1, Calibration, Alignment |
+| 21 | [`21_ai_models.ipynb`](21_ai_models.ipynb) | AI Models: Architecture, Training & Selection | LLMs, CNNs, Diffusion, Transformers, frontier comparison |
 | 18 | [`18_intro_to_cloud.ipynb`](18_intro_to_cloud.ipynb) | Introduction to Cloud Computing | IaaS/PaaS/SaaS/FaaS, AWS/Azure/GCP crosswalk, WAF |
 | 19 | [`19_cloud_security.ipynb`](19_cloud_security.ipynb) | Cloud Security Architecture | Zero Trust, IAM hardening, encryption, CSPM, containers |
 | 20 | [`20_cloud_management.ipynb`](20_cloud_management.ipynb) | Cloud Management & DevSecOps | FinOps, IaC scanning, DevSecOps pipeline, governance |
@@ -47,6 +48,7 @@ A complete hands-on cybersecurity lab series built in Python/Jupyter covering ne
 - **AI Governance** — EU AI Act classification, bias/fairness metrics, NIST AI RMF self-assessment
 - **AI Evaluation** — Rubric-based response scoring, BLEU/ROUGE metrics, hallucination detection, model benchmarking
 - **AI Safety & Trust** — Red-teaming, confidence calibration, value consistency testing, NIST AI 100-1 trustworthiness
+- **AI Models** — Model categories, LLM architecture, tokenisation, frontier comparison, adaptation strategies, selection framework
 - **Cloud Fundamentals** — Service models, deployment models, AWS/Azure/GCP crosswalk, Well-Architected Framework
 - **Cloud Security** — Zero Trust, IAM hardening, encryption strategy, VPC architecture, CSPM, container security
 - **Cloud Management** — FinOps, tagging governance, IaC security scanning, DevSecOps pipeline, maturity assessment
