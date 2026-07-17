@@ -148,7 +148,7 @@ This repository is my centralized development environment for:
 
 -GitHub: <https://github.com/ben-cyberse>
 - Email: <mailto:ben.cyber@outlook.com>
-- LinkedIn: *(Coming Soon)*
+- LinkedIn: [Benjamin Adjei](https://www.linkedin.com/in/benjamin-adjei-001227272)
   
 ## Development Environment
 
