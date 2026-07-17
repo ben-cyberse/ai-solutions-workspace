@@ -26,6 +26,8 @@ A complete hands-on cybersecurity lab series built in Python/Jupyter covering ne
 | 13 | [`13_grc_governance_risk_compliance.ipynb`](13_grc_governance_risk_compliance.ipynb) | GRC: Governance, Risk & Compliance | NIST CSF 2.0, ISO 27001, PCI-DSS |
 | 14 | [`14_ai_security.ipynb`](14_ai_security.ipynb) | AI Security: Threats & Defences | OWASP LLM Top 10, Prompt Injection, ART |
 | 15 | [`15_ai_governance.ipynb`](15_ai_governance.ipynb) | AI Governance & Responsible AI | NIST AI RMF, EU AI Act, Fairlearn, SHAP |
+| 16 | [`16_ai_evaluation.ipynb`](16_ai_evaluation.ipynb) | AI Evaluation: Metrics & Benchmarking | BLEU, ROUGE, Rubric scoring, Hallucination detection |
+| 17 | [`17_ai_safety_trust.ipynb`](17_ai_safety_trust.ipynb) | AI Safety & Trust | Red-teaming, NIST AI 100-1, Calibration, Alignment |
 
 ---
 
@@ -40,6 +42,8 @@ A complete hands-on cybersecurity lab series built in Python/Jupyter covering ne
 - **GRC** — Risk registers, NIST CSF gap analysis, multi-framework control crosswalks
 - **AI Security** — Adversarial ML detection, prompt injection scanning, output safety filtering
 - **AI Governance** — EU AI Act classification, bias/fairness metrics, NIST AI RMF self-assessment
+- **AI Evaluation** — Rubric-based response scoring, BLEU/ROUGE metrics, hallucination detection, model benchmarking
+- **AI Safety & Trust** — Red-teaming, confidence calibration, value consistency testing, NIST AI 100-1 trustworthiness
 
 ---
 
